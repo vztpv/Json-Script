@@ -1,6 +1,6 @@
 # Json-Script
 
-# Example..
+# Example.. (Goal..)
 
     # json -> var
     # json_ptr -> var_ptr 

@@ -22,7 +22,7 @@
     var d = *b;
 
     var _x = Test{}."int_value".key;
-    var _y = Test{}."int_value".value;
+    var _y $= Test{}."int_value".value; # 
 
     var xx = Test.clone;
     var yy = Test{}."int_value".clone;

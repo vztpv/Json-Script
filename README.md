@@ -15,12 +15,6 @@
     var_ptr y = Test2[].0;
     var_ptr z = Test{}."test"{}."x";
 
-    var_ptr a = &int_value;
-    var_ptr b = &str_value;
-
-    var c = *a;
-    var d = *b;
-
     var _x = Test{}."int_value".key;
     var _y $= Test{}."int_value".value; # 
 
